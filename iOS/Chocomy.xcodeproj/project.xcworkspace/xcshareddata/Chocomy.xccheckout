@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>170A1029-2887-48F7-8EA6-A923667F6598</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Chocomy</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2573F93532FA19B30E3C2E812754358AA4AC0A35</key>
+		<string>https://github.com/Rjayone/chocomy.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iOS/Chocomy.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2573F93532FA19B30E3C2E812754358AA4AC0A35</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Rjayone/chocomy.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2573F93532FA19B30E3C2E812754358AA4AC0A35</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2573F93532FA19B30E3C2E812754358AA4AC0A35</string>
+			<key>IDESourceControlWCCName</key>
+			<string>chocomy</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     [self moveView:_rope toPoint:CGPointMake(_rope.center.x, _rope.center.y+10) withDuration:0.2 andDelay:0.3];
-    [self moveView:_roller toPoint:CGPointMake(_roller.center.x, -390) withDuration:0.3 andDelay:0.5];
+    [self moveView:_roller toPoint:CGPointMake(_roller.center.x, -390) withDuration:0.7 andDelay:0.5];
     [self moveView:_rope toPoint:CGPointMake(_rope.center.x, -390) withDuration:0.2 andDelay:0.5];
 }
 
